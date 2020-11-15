@@ -1,6 +1,7 @@
-[![Dreams in the CodingTrain](https://raw.githubusercontent.com/CodingTrain/Machine-Learning/master/codingdream.jpg)](http://thecodingtrain.com/)
+# Machine Learning
 
-# Machine-Learning
+<img src="https://futurithmic-15d58.kxcdn.com/wp-content/uploads/2019/04/12.4.19_MachineLearning.jpg" width="100%">
+
 Examples and experiments around ML for upcoming Coding Train videos and ITP course.
 
 # Resource attributes
